@@ -1,0 +1,28 @@
+@media (min-width: 320px) and (max-width: 768px) {
+
+body{
+
+}
+.seaBACK{
+    background-image: url("/photo/Background.png");
+    position: absolute;
+    min-width: 320px;
+    max-width: 768px;
+    height: 430px;
+}
+.number{
+    position: absolute;
+    height: 60px;
+    left: 14.92%;
+    right: 49.91%;
+    top: calc(50% - 60px/2 - 180px);
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 60px;
+    text-align: right;
+    color: #201E51;
+
+}
+}
